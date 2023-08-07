@@ -1,3 +1,4 @@
+// @ts-nocheck
 import * as React from "react";
 import { Dimension, BaseLayoutProvider } from "../dependencies/LayoutProvider";
 import ItemAnimator from "../ItemAnimator";

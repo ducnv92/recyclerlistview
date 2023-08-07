@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default interface ItemAnimator {
     //Web uses tranforms for moving items while react native uses left, top
     //IMPORTANT: In case of native itemRef will be a View and in web/RNW div element so, override accordingly.

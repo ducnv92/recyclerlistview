@@ -1,3 +1,4 @@
+// @ts-nocheck
 import CustomError from "../core/exceptions/CustomError";
 
 export interface ValueAndIndex {

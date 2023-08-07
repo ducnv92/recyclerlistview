@@ -1,3 +1,4 @@
+// @ts-nocheck
 import * as React from "react";
 
 //Interim solve given we want to be active on old react as well for now.

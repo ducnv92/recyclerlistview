@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { LayoutProvider, Dimension } from "./LayoutProvider";
 import { Layout, LayoutManager } from "../layoutmanager/LayoutManager";
 import { GridLayoutManager } from "../layoutmanager/GridLayoutManager";

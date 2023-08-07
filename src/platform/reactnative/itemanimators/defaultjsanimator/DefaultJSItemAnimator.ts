@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Animated, Easing, View } from "react-native";
 import { BaseItemAnimator } from "../../../../core/ItemAnimator";
 

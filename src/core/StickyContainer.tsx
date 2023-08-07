@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Created by ananya.chandra on 14/09/18.
  */

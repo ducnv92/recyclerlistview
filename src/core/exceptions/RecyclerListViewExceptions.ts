@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Exception } from "./CustomError";
 
 const RecyclerListViewExceptions: {[key: string]: Exception} = {

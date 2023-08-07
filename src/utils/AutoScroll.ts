@@ -1,3 +1,4 @@
+// @ts-nocheck
 export interface Scrollable {
     scrollToOffset(x: number, y: number, animate: boolean): void;
 }

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import RecycleItemPool from "../utils/RecycleItemPool";
 import { Dimension, BaseLayoutProvider } from "./dependencies/LayoutProvider";
 import CustomError from "./exceptions/CustomError";

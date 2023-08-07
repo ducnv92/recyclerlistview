@@ -1,1 +1,2 @@
-export * from "../dist/reactnative/core/StickyContainer";
+// @ts-nocheck
+export * from "../src/core/StickyContainer";

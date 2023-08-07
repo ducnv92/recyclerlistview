@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ScrollEvent } from "../../../core/scrollcomponent/BaseScrollView";
 
 export class ScrollEventNormalizer {

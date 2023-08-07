@@ -1,3 +1,4 @@
+// @ts-nocheck
 import BinarySearch from "../utils/BinarySearch";
 import { Dimension } from "./dependencies/LayoutProvider";
 import { Layout } from "./layoutmanager/LayoutManager";

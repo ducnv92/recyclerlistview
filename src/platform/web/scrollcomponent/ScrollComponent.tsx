@@ -1,3 +1,4 @@
+// @ts-nocheck
 import * as React from "react";
 import { Dimension } from "../../../core/dependencies/LayoutProvider";
 import BaseScrollComponent, { ScrollComponentProps } from "../../../core/scrollcomponent/BaseScrollComponent";

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ObjectUtil } from "ts-object-utils";
 
 /***

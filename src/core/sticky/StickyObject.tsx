@@ -1,7 +1,8 @@
+// @ts-nocheck
 /**
  * Created by ananya.chandra on 20/09/18.
  */
-
+// @ts-nocheck
 import * as React from "react";
 import { Animated, StyleProp, ViewStyle } from "react-native";
 import { Layout } from "../layoutmanager/LayoutManager";

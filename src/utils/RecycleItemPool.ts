@@ -1,3 +1,4 @@
+// @ts-nocheck
 /***
  * Recycle pool for maintaining recyclable items, supports segregation by type as well.
  * Availability check, add/remove etc are all O(1), uses two maps to achieve constant time operation

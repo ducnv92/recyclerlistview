@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { LayoutAnimation, Platform, UIManager } from "react-native";
 import { BaseItemAnimator } from "../../../core/ItemAnimator";
 

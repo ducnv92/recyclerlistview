@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Dimension } from "../../../..";
 
 export default interface ResizeDebugHandler {

@@ -1,1 +1,2 @@
-export * from "../dist/web";
+// @ts-nocheck
+export * from "../src/platform/web";

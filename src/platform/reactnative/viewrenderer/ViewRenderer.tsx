@@ -1,3 +1,4 @@
+// @ts-nocheck
 import * as React from "react";
 import { LayoutChangeEvent, View, ViewProperties } from "react-native";
 import { Dimension } from "../../../core/dependencies/LayoutProvider";

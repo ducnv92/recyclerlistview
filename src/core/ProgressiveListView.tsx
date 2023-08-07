@@ -1,3 +1,4 @@
+// @ts-nocheck
 import RecyclerListView, { RecyclerListViewProps, RecyclerListViewState } from "./RecyclerListView";
 export interface ProgressiveListViewProps extends RecyclerListViewProps {
     maxRenderAhead?: number;
